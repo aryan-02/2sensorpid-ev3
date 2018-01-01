@@ -30,7 +30,7 @@
 		Now, put the PID my-block inside a loop. Add two Color Sensor blocks with mode set to Measure -> Reflected Light Intensity, set the ports for your left and right color sensors respectively. Now, plug in the left and right sensor values into their respective input slots (leftSensorValue and rightSensorValue).
 	</li>
 	<li>
-	Next, Set your power, kP, kI and kD
+	Next, Set your power, kP, kI and kD. Make sure your left motor is connected to port A and the left motor is connected to port B.
 	</li>
 </ol>
 
