@@ -10,7 +10,7 @@
 	<li>
 		Before you import the My-Blocks, open the project properties, click "Variables" and create the following variables:<br><br>
 		<table>
-			<thead><tr><td>Variable Name</td><td>DataType</td></tr></thead>
+			<thead><tr><th>Variable Name</th><th>DataType</th></tr></thead>
 			<tr><td>Error</td><td>Numeric</td></tr>
 			<tr><td>Integral</td><td>Numeric</td></tr>
 			<tr><td>Derivative</td><td>Numeric</td></tr>
