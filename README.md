@@ -36,6 +36,10 @@
 
 And you're done.
 
+## More information
+
+This algorithm can easily be extended to any even number of color sensors, so you can go crazy with it! For example, for four sensors, say your sensors are numbered 0, 1, 2, 3 from left to right. Let us denote the reflected light intensity as measured by the ith sensor as ``sensor(i)`` Then, for the left sensor value, pass the value measured by ``(sensor[0] * 2 + sensor[1] * 1)`` and the right sensor value as ``(sensor[2] * 1 + sensor[3] * 2)``
+
 ## Here's how to contribute to this repository:
 
 Fork the repository, make the changes. Make sure you commit your changes and mention what you've improved. Then make a pull request. If the changes are approved, they'll get merged into this repository.
